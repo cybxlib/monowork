@@ -11,5 +11,6 @@
 | [kind-Pub/Sub](https://github.com/nmomtselidze/monowork/tree/main/kind-Pub/Sub) | Local Pub/Sub emulator | Kubernetes, kind | Runs a local Pub/Sub emulator inside the kind cluster.|
 | [adk_production](https://github.com/nmomtselidze/monowork/tree/main/adk_production) | Agent Development Kit projects | Python, Go, ADK | Building intelligent agents with Python and Go.|
 | [ci / cd](https://github.com/nmomtselidze/monowork/tree/main/go-cicd-lab) | Go monorepo CI pipeline | GitHub Actions, Go, golangci-lint | 4-module matrix, lint-test-build gates |
-
+//Gemini
+https://gemini.google.com/app/a81cae8dd02af2cf?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all
 
